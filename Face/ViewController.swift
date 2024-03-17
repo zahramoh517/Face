@@ -10,7 +10,7 @@ import AVFoundation
 
 class ViewController: UIViewController {
     
-    // MARK - Variables
+    // MARK - Variablesssss
 
     private let captureSession = AVCaptureSession()
     private lazy var previewLayer = AVCaptureVideoPreviewLayer(session: captureSession)
